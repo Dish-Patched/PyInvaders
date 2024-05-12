@@ -5,6 +5,7 @@ A Space Invaders style arcade game made in Python using the Turtle library
 - THe aliens keep falling down at a steady pace and disappear once shot
 - If an alien reaches the base, the game ends
 - On the top left corner, there are time and score counters
+- Press q to quit
 Try getting the highest score!!!
 
 Game Screen:
